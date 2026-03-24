@@ -3,10 +3,11 @@
 ## Overview
 This project analyzes student performance across three subjects: Math, English, and Economics.
 
-## Tools Used
-- Python
-- Pandas
-- Matplotlib
+## 🛠️ Tools Used
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ## Project Structure
 - data/ → dataset
